@@ -1,4 +1,4 @@
-# high-resolution-dual-echo-rosette-fmri-
+# Submillimeter fMRI Acquisition using a dual-echo Rosete-kspace trajectory at 3T
 We are exploring the utility of the novel 3D dual-echo Rosette kspace MRI for an high-resolution fMRI application. 
 Synopsis
 In this study, we overcome the technological barrier against acquiring submillimeter resolution (~ 0.5 mm) fMRI data at 3T via a novel dual-echo Rosette k-space design. This design results in the fine representation of activation maps in two different functional tasks and might be a springboard in neuroimaging by providing very high-resolution spatiotemporal dynamics of neural networks. The method will be further evolved with the feedback from the MRI community via the GitHub platform as such for further acceleration, inflow saturation, and 3D coverage via 3D sampling and/or multiband approaches. 
