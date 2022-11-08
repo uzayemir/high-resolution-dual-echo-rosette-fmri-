@@ -15,8 +15,14 @@ Results
 
 We demonstrated that the novel dual-echo sequence captures similar activation maps in the occipital and motor cortices in response to functional tasks compared to the conventional MB-EPI sequence (Figures 1 and 2). Additionally, the signal loss in the frontal cortex of MB-EPI is recovered using the VSE dual-echo Rosette, including the eyes (Figure 3).
 
-
+Figure 1
 ![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/rosette_ismrm.png?raw=true)
+
+
+Figure 2
+
+Figure 3
+![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/ismrm_figure3.png?raw=true)
 
 Discussion and Conclusion 
 
