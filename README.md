@@ -1,4 +1,4 @@
-# Submillimeter fMRI Acquisition using a dual-echo Rosete-kspace trajectory at 3T
+# Submillimeter fMRI Acquisition using a dual-echo Rosette kspace trajectory at 3T
 We are exploring the utility of the novel 3D dual-echo Rosette kspace MRI for an high-resolution fMRI application. 
 Synopsis
 In this study, we overcome the technological barrier against acquiring submillimeter resolution (~ 0.5 mm) fMRI data at 3T via a novel dual-echo Rosette k-space design. This design results in the fine representation of activation maps in two different functional tasks and might be a springboard in neuroimaging by providing very high-resolution spatiotemporal dynamics of neural networks. The method will be further evolved with the feedback from the MRI community via the GitHub platform as such for further acceleration, inflow saturation, and 3D coverage via 3D sampling and/or multiband approaches. 
@@ -19,14 +19,20 @@ We demonstrated that the novel dual-echo sequence captures similar activation ma
 
 
 Discussion and Conclusion 
+
 In this study, we demonstrated a novel VSE dual-echo Rosette fMRI sequence and compared it against the MB-EPI sequence. Findings indicate that the novel sequence is capable of detecting functional signals from a submillimeter resolution (~ 0.5 mm in-plane resolution) using clinically and widely available 3T scanners. The improvements to accelerate the acquisition and increase the 3D coverage will be presented and discussed. The novel VSE dual-echo Rosette fMRI sequence might be a springboard in neuroimaging by providing a very high-resolution spatiotemporal dynamics of neural networks.
 
 
 References
+
 [1]. Lawrence SJ, Formisano E, Muckli L, de Lange, FP.  Laminar fMRI: Applications for cognitive neuroscience. Neuroimage. 2019;197,785-791.
+
 [2]. Ugurbil K. What is feasible with imaging human brain function and connectivity using functional magnetic resonance imaging. Philos Trans R Soc B Biol Sci. 2016;371(1705). doi:10.1098/RSTB.2015.0361
+
 [3]. Toi PT, Jang HJ, Min K, et al. In vivo direct imaging of neuronal activity at high temporospatial resolution. Science (80- ). 2022;378(6616):160-168. doi:10.1126/SCIENCE.ABH4340
+
 [4]. Shen X, Özen AC, Sunjar A, et al. Ultra-short T2 components imaging of the whole brain using 3D dual-echo UTE MRI with rosette k-space pattern. Magn Reson Med. Published online September 25, 2022. doi:10.1002/MRM.29451
+
 [5]. Worsley KJ. Testing for signals with unknown location and scale in a χ2 random field, with an application to fMRI. Adv Appl Probab. 2001;33(4):773-793. doi:10.1239/AAP/1011994029
 
 
