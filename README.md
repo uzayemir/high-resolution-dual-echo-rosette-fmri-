@@ -19,7 +19,7 @@ Gianna Nossa<sup>1</sup>, Humberto Monsivais<sup>1</sup>, Seokkyoon Hong<sup>2</
 <sup>3</sup>Radiology and Biomedical Imaging, University of California San Francisco, San Francisco, CA, United States 
 <sup>4</sup>Department of radiology, Medical Physics, Medical Center-University of Freiburg, Freiburg, Germany; 
 <sup>5</sup>University of Toronto; 
-6Department of Psychology, University of Cambridge;  
+<sup>6</sup>Department of Psychology, University of Cambridge;  
 <sup>7</sup>Biomedical Research Imaging Center, University of North Carolina Chapel Hill, Chapel Hill, NC, United States 
 
 **Synopsis**
