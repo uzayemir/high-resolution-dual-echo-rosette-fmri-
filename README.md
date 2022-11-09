@@ -1,4 +1,5 @@
 # Submillimeter fMRI Acquisition using a dual-echo Rosette kspace trajectory at 3T
+Submillimeter fMRI Acquisition using a dual-echo Rosette kspace trajectory at 3T
 We are exploring the utility of the novel 3D dual-echo Rosette kspace MRI for an high-resolution fMRI application. 
 
 **Synopsis**
