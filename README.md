@@ -1,44 +1,52 @@
 # Submillimeter fMRI Acquisition using a dual-echo Rosette kspace trajectory at 3T
 We are exploring the utility of the novel 3D dual-echo Rosette kspace MRI for an high-resolution fMRI application. 
-Synopsis
+
+**Synopsis**
+
 In this study, we overcome the technological barrier against acquiring submillimeter resolution (~ 0.5 mm) fMRI data at 3T via a novel dual-echo Rosette k-space design. This design results in the fine representation of activation maps in two different functional tasks and might be a springboard in neuroimaging by providing very high-resolution spatiotemporal dynamics of neural networks. The method will be further evolved with the feedback from the MRI community via the GitHub platform as such for further acceleration, inflow saturation, and 3D coverage via 3D sampling and/or multiband approaches. 
 
 **Introduction** 
 
 Understanding neurological associations have been a challenge in neuroscience, especially the visual pathway. Non-invasive access to functional data through fMRI provides information on the changes in cerebral blood flow and oxygenation in response to stimuli.  For a more fine-grained assessment, laminar fMRI measures responses specific to separate cortical layers [1]. Current techniques utilize gradient-recalled echo for functional mapping contrast and image encoding through Echo Planar Imaging [2]. While ultrahigh field strengths (≥7T) generally outperform lower field strengths (3T), the submillimeter resolution is a challenge for high and ultra-high field strengths [3]. We recently demonstrated a novel Rosette k-space design providing improved PSF and SNR compared to radial acquisition and a smooth transition (zero-delay) between the two echoes of dual-echo acquisition [4]. It also offers the potential for further acceleration using higher under-sampling factors and compressed sensing (CS) techniques for reconstruction. In this study, we developed a novel very short TE (VSE) dual-echo Rosette fMRI sequence to capture the submillimeter fMRI signal and compared it against the conventional MB-EPI sequence at 3T. 
 
-K-SPACE
+**K-SPACE**
+
 ![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/mrm29451-fig-0001-m.jpg?raw=true)
 
-PSF
+**PSF**
+
 ![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/mrm29451-fig-0003-m.png?raw=true)
 
-SNR
+**SNR**
 ![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/mrm29451-fig-0005-m.png?raw=true)
 
-Methods
+**Methods**
+
 The study was approved by the Institutional Review Boards (IRBs) of Purdue University and informed consent was obtained. Two healthy volunteers (M, 40, and 29 years old) underwent brain scans with a whole-body 3T MRI system (Siemens Healthineers, Erlangen, Germany). A vendor-supplied 64-channel receiver head coil was used. For conventional fMRI protocols, we used the 2D CMRR MB-EPI sequence with a multiband acceleration factor of 8, TR = 1.05 s, TE= 46 ms, Slice Thickness = 2 mm, flip angle= 52, number of slices = 72, and nominal in-plane resolution = 1.468 mm. For the novel dual-echo 2D Rosette fMRI sequence, the following acquisition parameters were used: TR = 2.4 s, dual-TEs= 1 and 9 ms, slice thickness = 2, flip angle = 7, number of slices = 1, number of petals with an acceleration factor 4 =189, nominal in-plane resolution = 0.468 mm [4]. Rosette fMRI data were reconstructed with ESPIRiT-based parallel imaging and compressed sensing: l1-wavelets in space and total variation in time using the BART tool (https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-) [4]. Two reconstruction resolutions were defined, 0.468 and 0.936 with a final matrix of 512 x 512. Two functional activation paradigms used in this comparison study were an 8-Hz flickering checkerboard and finger tapping for periods of 30 and 15 sec on/off, respectively. FMRI data processing was carried out using FEAT (FMRI Expert Analysis Tool) Version 6.00, part of FSL. Z (Gaussianised T/F) statistic images were thresholded using clusters determined by Z>3.1 and a (corrected) cluster significance threshold of P=0.05 [5].
 
 
-Results 
+**Results** 
 
 We demonstrated that the novel dual-echo sequence captures similar activation maps in the occipital and motor cortices in response to functional tasks compared to the conventional MB-EPI sequence (Figures 1 and 2). Additionally, the signal loss in the frontal cortex of MB-EPI is recovered using the VSE dual-echo Rosette, including the eyes (Figure 3).
 
-Figure 1
+**Figure 1**
+
 ![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/rosette_ismrm.png?raw=true)
 
+**Figure 2**
 
-Figure 2
 ![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/ismrm_figure2.png?raw=true)
-Figure 3
+
+**Figure 3**
+
 ![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/ismrm_figure3.png?raw=true)
 
-Discussion and Conclusion 
+**Discussion and Conclusion** 
 
 In this study, we demonstrated a novel VSE dual-echo Rosette fMRI sequence and compared it against the MB-EPI sequence. Findings indicate that the novel sequence is capable of detecting functional signals from a submillimeter resolution (~ 0.5 mm in-plane resolution) using clinically and widely available 3T scanners. The improvements to accelerate the acquisition and increase the 3D coverage will be presented and discussed. The novel VSE dual-echo Rosette fMRI sequence might be a springboard in neuroimaging by providing a very high-resolution spatiotemporal dynamics of neural networks.
 
 
-References
+**References**
 
 [1]. Lawrence SJ, Formisano E, Muckli L, de Lange, FP.  Laminar fMRI: Applications for cognitive neuroscience. Neuroimage. 2019;197,785-791.
 
