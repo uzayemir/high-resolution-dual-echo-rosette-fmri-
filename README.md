@@ -3,6 +3,14 @@ Submillimeter fMRI Acquisition using a dual-echo Rosette kspace trajectory at 3T
 
 We are exploring the utility of the novel 3D dual-echo Rosette kspace MRI for an high-resolution fMRI application. 
 
+**RAW DATA**
+
+Raw data can be downloadable from the following link. 
+
+
+https://purr.purdue.edu/projects/datasharing4roset/files
+
+
 
 Gianna Nossa<sup>1</sup>, Humberto Monsivais<sup>1</sup>, Seokkyoon Hong<sup>2</sup>, Taewoong Park<sup>2</sup>, Fethi Sila Erdil<sup>1</sup>, Xin Shen<sup>3</sup>, Ali Caglar Özen<sup>4</sup>, Serhat Ilbey<sup>4</sup>, Mark Chiew<sup>5</sup>, Cecilia Steinwurzel<sup>6</sup>, Zoe Kourtzi<sup>6</sup>, Yen-Yu Ian Shih<sup>7</sup>, Uzay Emir<sup>1,2</sup> 
 
@@ -73,7 +81,7 @@ In this study, we demonstrated a novel VSE dual-echo Rosette fMRI sequence and c
 **[5].** Worsley KJ. Testing for signals with unknown location and scale in a χ2 random field, with an application to fMRI. Adv Appl Probab. 2001;33(4):773-793. doi:10.1239/AAP/1011994029
 
 
-*RAW DATA*
+**RAW DATA**
 
 Raw data can be downloadable from the following link. 
 
