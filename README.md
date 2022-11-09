@@ -3,6 +3,16 @@ Submillimeter fMRI Acquisition using a dual-echo Rosette kspace trajectory at 3T
 
 We are exploring the utility of the novel 3D dual-echo Rosette kspace MRI for an high-resolution fMRI application. 
 
+
+Gianna Nossa <sup>1</sup>, Humberto Monsivais1, Seokkyoon Hong2, Taewoong Park 2, Fethi Sila Erdil1, Xin Shen3, Ali Caglar Özen4, Serhat Ilbey4, Mark Chiew5, Cecilia Steinwurzel6, Zoe Kourtzi6, Yen-Yu Ian Shih7, Uzay Emir1,2 
+1School of Health Sciences, Purdue University, West Lafayette, IN, United States;  
+2Weldon School of Biomedical Engineering, Purdue University, West Lafayette, IN, United States;  
+3Radiology and Biomedical Imaging, University of California San Francisco, San Francisco, CA, United States 
+4Department of radiology, Medical Physics, Medical Center-University of Freiburg, Freiburg, Germany; 
+5University of Toronto; 
+6Department of Psychology, University of Cambridge;  
+7Biomedical Research Imaging Center, University of North Carolina Chapel Hill, Chapel Hill, NC, United States 
+
 **Synopsis**
 
 In this study, we overcome the technological barrier against acquiring submillimeter resolution (~ 0.5 mm) fMRI data at 3T via a novel dual-echo Rosette k-space design. This design results in the fine representation of activation maps in two different functional tasks and might be a springboard in neuroimaging by providing very high-resolution spatiotemporal dynamics of neural networks. The method will be further evolved with the feedback from the MRI community via the GitHub platform as such for further acceleration, inflow saturation, and 3D coverage via 3D sampling and/or multiband approaches. 
@@ -68,6 +78,9 @@ Raw data can be downloadable from the following link.
 
 
 https://purr.purdue.edu/projects/datasharing4roset/files
+
+
+
 
 
 
