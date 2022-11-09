@@ -20,7 +20,7 @@ Figure 1
 
 
 Figure 2
-
+![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/ismrm_figure2.png?raw=true)
 Figure 3
 ![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/ismrm_figure3.png?raw=true)
 
