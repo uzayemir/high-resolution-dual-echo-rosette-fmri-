@@ -11,10 +11,10 @@ K-SPACE
 ![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/mrm29451-fig-0001-m.jpg?raw=true)
 
 PSF
-![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/mrm29451-fig-0003-m-m.png?raw=true)
+![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/mrm29451-fig-0003-m.png?raw=true)
 
 SNR
-![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/mrm29451-fig-0005-m-m.png?raw=true)
+![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/mrm29451-fig-0005-m.png?raw=true)
 
 Methods
 The study was approved by the Institutional Review Boards (IRBs) of Purdue University and informed consent was obtained. Two healthy volunteers (M, 40, and 29 years old) underwent brain scans with a whole-body 3T MRI system (Siemens Healthineers, Erlangen, Germany). A vendor-supplied 64-channel receiver head coil was used. For conventional fMRI protocols, we used the 2D CMRR MB-EPI sequence with a multiband acceleration factor of 8, TR = 1.05 s, TE= 46 ms, Slice Thickness = 2 mm, flip angle= 52, number of slices = 72, and nominal in-plane resolution = 1.468 mm. For the novel dual-echo 2D Rosette fMRI sequence, the following acquisition parameters were used: TR = 2.4 s, dual-TEs= 1 and 9 ms, slice thickness = 2, flip angle = 7, number of slices = 1, number of petals with an acceleration factor 4 =189, nominal in-plane resolution = 0.468 mm [4]. Rosette fMRI data were reconstructed with ESPIRiT-based parallel imaging and compressed sensing: l1-wavelets in space and total variation in time using the BART tool (https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-) [4]. Two reconstruction resolutions were defined, 0.468 and 0.936 with a final matrix of 512 x 512. Two functional activation paradigms used in this comparison study were an 8-Hz flickering checkerboard and finger tapping for periods of 30 and 15 sec on/off, respectively. FMRI data processing was carried out using FEAT (FMRI Expert Analysis Tool) Version 6.00, part of FSL. Z (Gaussianised T/F) statistic images were thresholded using clusters determined by Z>3.1 and a (corrected) cluster significance threshold of P=0.05 [5].
