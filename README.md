@@ -4,14 +4,14 @@ Submillimeter fMRI Acquisition using a dual-echo Rosette kspace trajectory at 3T
 We are exploring the utility of the novel 3D dual-echo Rosette kspace MRI for an high-resolution fMRI application. 
 
 
-Gianna Nossa <sup>1</sup>, Humberto Monsivais1, Seokkyoon Hong2, Taewoong Park 2, Fethi Sila Erdil1, Xin Shen3, Ali Caglar Özen4, Serhat Ilbey4, Mark Chiew5, Cecilia Steinwurzel6, Zoe Kourtzi6, Yen-Yu Ian Shih7, Uzay Emir1,2 
-1School of Health Sciences, Purdue University, West Lafayette, IN, United States;  
-2Weldon School of Biomedical Engineering, Purdue University, West Lafayette, IN, United States;  
-3Radiology and Biomedical Imaging, University of California San Francisco, San Francisco, CA, United States 
-4Department of radiology, Medical Physics, Medical Center-University of Freiburg, Freiburg, Germany; 
-5University of Toronto; 
+Gianna Nossa<sup>1</sup>, Humberto Monsivais<sup>1</sup>, Seokkyoon Hong<sup>2</sup>, Taewoong Park<sup>2</sup>, Fethi Sila Erdil<sup>1</sup>, Xin Shen<sup>3</sup>, Ali Caglar Özen<sup>4</sup>, Serhat Ilbey<sup>4</sup>, Mark Chiew<sup>5</sup>, Cecilia Steinwurzel<sup>6</sup>, Zoe Kourtzi<sup>6<s/up>, Yen-Yu Ian Shih<sup>7</sup>, Uzay Emir<sup>1,2</sup> 
+<sup>1</sup>School of Health Sciences, Purdue University, West Lafayette, IN, United States;  
+<sup>2</sup>Weldon School of Biomedical Engineering, Purdue University, West Lafayette, IN, United States;  
+<sup>3</sup>Radiology and Biomedical Imaging, University of California San Francisco, San Francisco, CA, United States 
+<sup>4</sup>Department of radiology, Medical Physics, Medical Center-University of Freiburg, Freiburg, Germany; 
+<sup>5</sup>University of Toronto; 
 6Department of Psychology, University of Cambridge;  
-7Biomedical Research Imaging Center, University of North Carolina Chapel Hill, Chapel Hill, NC, United States 
+<sup>7</sup>Biomedical Research Imaging Center, University of North Carolina Chapel Hill, Chapel Hill, NC, United States 
 
 **Synopsis**
 
