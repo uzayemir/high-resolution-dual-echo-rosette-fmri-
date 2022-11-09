@@ -62,6 +62,12 @@ In this study, we demonstrated a novel VSE dual-echo Rosette fMRI sequence and c
 **[5].** Worsley KJ. Testing for signals with unknown location and scale in a χ2 random field, with an application to fMRI. Adv Appl Probab. 2001;33(4):773-793. doi:10.1239/AAP/1011994029
 
 
+*RAW DATA*
+
+Raw data can be downloadable from the following link. 
+
+
+https://purr.purdue.edu/projects/datasharing4roset/files
 
 
 
