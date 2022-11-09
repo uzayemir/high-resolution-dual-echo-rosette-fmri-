@@ -15,11 +15,16 @@ https://purr.purdue.edu/projects/datasharing4roset/files
 Gianna Nossa<sup>1</sup>, Humberto Monsivais<sup>1</sup>, Seokkyoon Hong<sup>2</sup>, Taewoong Park<sup>2</sup>, Fethi Sila Erdil<sup>1</sup>, Xin Shen<sup>3</sup>, Ali Caglar Özen<sup>4</sup>, Serhat Ilbey<sup>4</sup>, Mark Chiew<sup>5</sup>, Cecilia Steinwurzel<sup>6</sup>, Zoe Kourtzi<sup>6</sup>, Yen-Yu Ian Shih<sup>7</sup>, Uzay Emir<sup>1,2</sup> 
 
 <sup>1</sup>School of Health Sciences, Purdue University, West Lafayette, IN, United States;  
-<sup>2</sup>Weldon School of Biomedical Engineering, Purdue University, West Lafayette, IN, United States;  
-<sup>3</sup>Radiology and Biomedical Imaging, University of California San Francisco, San Francisco, CA, United States 
+
+<sup>2</sup>Weldon School of Biomedical Engineering, Purdue University, West Lafayette, IN, United States; 
+
+<sup>3</sup>Radiology and Biomedical Imaging, University of California San Francisco, San Francisco, CA, United States; 
+
 <sup>4</sup>Department of radiology, Medical Physics, Medical Center-University of Freiburg, Freiburg, Germany; 
 <sup>5</sup>University of Toronto; 
-<sup>6</sup>Department of Psychology, University of Cambridge;  
+
+<sup>6</sup>Department of Psychology, University of Cambridge;
+
 <sup>7</sup>Biomedical Research Imaging Center, University of North Carolina Chapel Hill, Chapel Hill, NC, United States 
 
 **Synopsis**
