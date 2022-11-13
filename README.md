@@ -93,7 +93,7 @@ Raw data can be downloadable from the following link.
 
 https://purr.purdue.edu/projects/datasharing4roset/files
 
-
+![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/SWI2.mov?raw=true)
 
 
 
