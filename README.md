@@ -3,6 +3,9 @@
 
 We are exploring the utility of the novel 3D dual-echo Rosette kspace MRI for an high-resolution fMRI application. 
 
+![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/SWI2.gif?raw=true)
+
+
 **RAW DATA**
 
 Raw data can be downloadable from the following link. 
