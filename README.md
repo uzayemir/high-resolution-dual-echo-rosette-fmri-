@@ -9,7 +9,9 @@ First Echo and 2nd Echo with x6 accelaration TR=1.3ms
 
 ![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/first_2ndechoes_x6accelaration.jpg?raw=true)
 
+Subtracion
 
+![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/subtraction.jpg?raw=true)
 
 First Echo - 2nd Echo 
 
