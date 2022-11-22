@@ -4,7 +4,7 @@
 We are exploring the utility of the novel 3D dual-echo Rosette kspace MRI for an high-resolution fMRI application. 
 
 
-First Echo and 2nd Echo with x6 accelaration TR=1.3ms 
+First Echo and 2nd Echo with x6 accelaration TR=1300ms 
 
 
 ![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/first_2ndechoes_x6accelaration.jpg?raw=true)
