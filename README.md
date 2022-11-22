@@ -1,6 +1,11 @@
 # Submillimeter fMRI Acquisition using a dual-echo Rosette kspace trajectory at 3T#
 *Submillimeter fMRI Acquisition using a dual-echo Rosette kspace trajectory at 3T*
 
+
+
+![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/flower-petals-element-vector-set-red-rose_53876-126295.jpg?raw=true)
+
+
 We are exploring the utility of the novel 3D dual-echo Rosette kspace MRI for an high-resolution fMRI application. 
 
 
