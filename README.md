@@ -8,6 +8,11 @@
 
 We are exploring the utility of the novel 3D dual-echo Rosette kspace MRI for an high-resolution fMRI application. 
 
+Resolution insert Measurements: The hole diameter differs between the array pairs: for the left pair it is 1.1 mm, for the center pair it is 1.0 mm, and for the right pair it is 0.9 mm. 
+
+
+![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/resolution_fmri.png?raw=true)
+
 
 First Echo and 2nd Echo with x6 accelaration TR=1300ms 
 
