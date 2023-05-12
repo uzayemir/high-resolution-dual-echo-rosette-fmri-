@@ -10,6 +10,11 @@ We are exploring the utility of the novel 3D dual-echo Rosette kspace MRI for an
 
 Resolution insert Measurements: The hole diameter differs between the array pairs: for the left pair it is 1.1 mm, for the center pair it is 1.0 mm, and for the right pair it is 0.9 mm. 
 
+# Reduced FOV 1st echo echo acquisition time 1s, 95 petals, 1 petal = 11ms Regridding
+![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/reducedfov.png?raw=true)
+
+
+
 # 2nd echo acquisition time 1s, 95 petals, 1 petal = 11ms Regridding
 ![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/resolution_fmri.png?raw=true)
 
