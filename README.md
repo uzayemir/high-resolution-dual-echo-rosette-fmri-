@@ -7,6 +7,8 @@
 
 
 We are exploring the utility of the novel 3D dual-echo Rosette kspace MRI for an high-resolution fMRI application. 
+# 3T, Siemens Prisma Scanner 1s, 95 petals, 1 petal = 11ms Regridding Comparsion against MB-EPI 
+![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/Figuregithub.png?raw=true)
 
 
 # 7T, Siemens Terra Scanner 1s, 95 petals, 1 petal = 11ms Regridding
