@@ -13,6 +13,7 @@ We are exploring the utility of the novel 3D dual-echo Rosette kspace MRI for an
 
 ![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/FzPiuiLXwAkPV9L.jpg?raw=true)
 
+![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/FzQFIx7WIBgePcg.jpg?raw=true)
 
 # 7T, Siemens Scanner super high temporal resolution 2nd echo Regridding 
 ![alt text](https://github.com/uzayemir/high-resolution-dual-echo-rosette-fmri-/blob/main/imagetemporalsuper2ndecho.png?raw=true)
